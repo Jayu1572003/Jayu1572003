@@ -36,6 +36,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jayu1572003&show_icons=true&locale=en&theme=tokyonight" alt="Jayeshghevare" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayu1572003&&theme=tokyonight" alt="Jayeshghevare" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayu1572003&&theme=tokyonight" alt="Jayeshghevare" /></p> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayu1572003&" alt="Jayeshghevare" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayu1572003&" alt="Jayeshghevare"/></p> -->
